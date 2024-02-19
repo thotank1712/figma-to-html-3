@@ -36,6 +36,7 @@ a {
   min-width: 205px;
   line-height: 60px;
   border-radius: 30px;
+  color: #fff;
   font-size: 1.8rem;
   font-weight: 400;
   letter-spacing: 0em;
@@ -102,7 +103,7 @@ a {
   line-height: 44px;
   font-size: 1.6rem;
   /* padding: 8px 20px; */
-  color: #fff;
+  /* color: #fff; */
 }
 
 .header__action--login {
